@@ -28,8 +28,6 @@ Create eye-catching thumbnails: Use custom thumbnails with bold visuals and text
 Use playlists to categorize your videos: Organize your content into playlists to make it easier for viewers to find and binge-watch your videos [2].
 
 Cross-promote your YouTube content: Share your videos on other social channels, your website, blog, and email newsletters to drive traffic to your YouTube channel [2].
-
-Keep an eye on your analytics: Use YouTube Studio's analytics tab to gain insights into your video performance and audience engagement [2].
         </p>
     </div>);
 }
