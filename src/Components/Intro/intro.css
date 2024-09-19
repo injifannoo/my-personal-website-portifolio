@@ -48,8 +48,27 @@
     font-size: medium;
     font-weight: 400;
     letter-spacing: 1px;
-    color: blue;
+    color: white;
     z-index: 6;
+}
+
+.introContact {
+    font-size: large;
+    font-weight: 600;
+    letter-spacing: 1px;
+    color: white;
+    z-index: 6;
+    font-style: italic;
+}
+.introList{
+    font-size: medium;
+    font-weight: 400;
+    letter-spacing: 1px;
+    color: red;
+    z-index: 6;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    list-style: none;
 }
 
 .btn {
