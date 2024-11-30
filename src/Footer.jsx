@@ -9,6 +9,7 @@ function Footer(){
     <li> <a className={styles.link} href="https://github.com/Injifannoo/">Github</a></li>
     <li> <a className={styles.link} href="https://t.me/InjifannooTU">Telegram</a></li>
     <li> <a className={styles.link} href="https://www.linkedin.com/in/injifanotamiru/">Linkedn</a></li>
+    <li> <a className={styles.link} href="https://www.linkedin.com/in/injifanotamiru/">Linkedn</a></li>
 
     </ul>
 </nav> 
